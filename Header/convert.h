@@ -5,6 +5,8 @@
 *Description: File header for Converting string to binary
 */
 #ifndef __CONVERT_H
+#define __CONVERT_H
+
 #include<stdio.h>
 #include<string.h>
 
